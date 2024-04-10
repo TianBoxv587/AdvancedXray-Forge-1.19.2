@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: Advanced XRay
+Specification-Vendor: Advanced XRay
+Specification-Version: 1
+Implementation-Title: Advanced XRay
+Implementation-Version: 1.19.2-2.13.0-build.9999
+Implementation-Vendor: Advanced XRay
+Implementation-Timestamp: 2024-04-11T06:37:43+0800
+
